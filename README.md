@@ -5,6 +5,7 @@ SOS-Plugin aims to provide an easy to use event relay in use for OBS streams, pa
 Want some real life examples? Check out the `Codename: COVERT` assets:
 https://gitlab.com/bakkesplugins/sos/codename-covert
 
+Or check out Helios_RL: https://discord.gg/QbMfDk8zDE
 **SOS has been used by the following productions**
 - Codename: COVERT by iDazerin
 - Disconnect's 3v3 monthly tournaments
